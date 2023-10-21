@@ -4,6 +4,8 @@ Official implementation of the paper :  ["Sound Source Distance Estimation in di
 
 Accepted at WASPAA 2023
 
-Code will be released soon.
+The documentation to run the experiments will be updated soon. 
+
+The Code is based on [seld-dcase2022](https://github.com/sharathadavanne/seld-dcase2022) and [DCASE2022-data-generator](https://github.com/danielkrause/DCASE2022-data-generator)
 
 
