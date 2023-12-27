@@ -1,4 +1,4 @@
-## SOUND SOURCE DISTANCE ESTIMATION
+## SOUND SOURCE DISTANCE ESTIMATION IN DIVERSE AND DYNAMIC ACOUSTIC CONDITIONS
 
 Official implementation of the paper :  ["Sound Source Distance Estimation in diverse and dynamic acoustic conditions"](https://ccrma.stanford.edu/~iran/papers/Kushwaha_et_al_WASPAA_2023.pdf)
 
