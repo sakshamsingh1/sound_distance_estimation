@@ -1,4 +1,11 @@
 
+## SOUND SOURCE DISTANCE ESTIMATION IN DIVERSE AND DYNAMIC ACOUSTIC CONDITIONS
+
+Official implementation of the paper :  ["Sound Source Distance Estimation in diverse and dynamic acoustic conditions"](https://ccrma.stanford.edu/~iran/papers/Kushwaha_et_al_WASPAA_2023.pdf)
+
+Accepted at WASPAA 2023
+
+
 <p align="center">
   <img src="image/Model.png" width="200"/>
 </p>
@@ -97,4 +104,5 @@ If you make use of our work or data, please cite our paper:
 }
 ```
 
+The Code is based on [seld-dcase2022](https://github.com/sharathadavanne/seld-dcase2022)
 
